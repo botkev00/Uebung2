@@ -9,7 +9,7 @@ Uebung2
 * Zeile 2
 * Zeile 3
 
- **fett *kursiv*  
+ **fett** *kursiv*  
 
 Spalte.1 | Spalte.2 | Spalte.3
 ------|-------|------
